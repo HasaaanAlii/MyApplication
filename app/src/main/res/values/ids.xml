@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="loginbtn" type="id" />
+    <item name="textView" type="id" />
+    <item name="calendarRecyclerView" type="id" />
+    <item name="monthYearTV" type="id" />
+    <item name="imageCard" type="id" />
+    <item name="activity_week_view" type="id" />
+    <item name="activity_modules" type="id" />
+    <item name="row1" type="id" />
+    <item name="aseModule" type="id" />
+    <item name="activity_ase_module" type="id" />
+</resources>
